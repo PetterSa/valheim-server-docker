@@ -5,3 +5,5 @@ network:
     - 2456
     - 2457
     - 2458
+manual_scaling:
+  instances: 1
