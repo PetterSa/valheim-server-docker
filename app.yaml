@@ -1,0 +1,7 @@
+runtime: custom
+env: flex
+network:
+  forwarded_ports:
+    - 2456
+    - 2457
+    - 2458
